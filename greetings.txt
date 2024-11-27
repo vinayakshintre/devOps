@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Everyone!
+=======
+Hello World!
+>>>>>>> dev
 Thank you all!
